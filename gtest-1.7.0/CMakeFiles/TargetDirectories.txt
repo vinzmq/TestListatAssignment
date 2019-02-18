@@ -1,0 +1,4 @@
+/home/vmartynu/CLionProjects/ListsatTest/gtest-1.7.0/CMakeFiles/rebuild_cache.dir
+/home/vmartynu/CLionProjects/ListsatTest/gtest-1.7.0/CMakeFiles/gtest.dir
+/home/vmartynu/CLionProjects/ListsatTest/gtest-1.7.0/CMakeFiles/edit_cache.dir
+/home/vmartynu/CLionProjects/ListsatTest/gtest-1.7.0/CMakeFiles/gtest_main.dir
